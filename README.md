@@ -1,9 +1,14 @@
 # 👩‍💻 Sobre mim
 
-Olá! Eu sou **Jaqueline Patrícia Sanches**, profissional em **transição de carreira** para a área de **Qualidade de Software e Testes**, unindo minha experiência de mais de **15 anos nas áreas administrativa e financeira** com uma nova paixão: **garantir a excelência e confiabilidade de produtos de software**.
+Analista de Qualidade de Software (QA)
+📍 Londrina – Paraná – Brasil
+📞 (43) 99609-7092
+📧 net.jaqueline@gmail.com
+🔗 LinkedIn: Jaqueline Sanches
 
-Minha jornada na tecnologia começou movida pela curiosidade e pelo desejo de entender como os sistemas funcionam por trás das telas — e logo percebi que a **Qualidade de Software (QA)** era o caminho ideal para aplicar meu olhar analítico, minha atenção aos detalhes e minha habilidade de comunicação técnica.  
-Hoje, sou movida pelo propósito de **melhorar continuamente processos e entregas**, contribuindo para produtos digitais mais **estáveis, seguros e funcionais**.
+Olá! Me chamo Jaqueline, analista de Qualidade de Software com experiência em testes manuais, validação de regras de negócio e análise de problemas em sistemas web e ERP. 
+Atuação na investigação de falhas, comunicação com usuários e equipe de desenvolvimento e acompanhamento de correções até validação final.
+Possuo experiência com testes de API, consulta em SQL Server, escrita e organização de cenários de teste. Atuo com foco na qualidade do produto, melhoria contínua e prevenção de falhas. Atualmente em evolução para automação de testes com Cypress.
 
 ---
 
@@ -29,18 +34,16 @@ Atuação com ferramentas e práticas de mercado:
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Bacharelado em Engenharia de Software**  
-  *Concluído em 2024*  
-  Ênfase em Análise e Desenvolvimento de Sistemas.  
-  Disciplinas de destaque: Tecnologia da Informação, Projeto de Software, Gestão de Projetos, Gerenciamento Ágil, Engenharia de Software, Governança em TI e Segurança da Informação.
+Pós-graduação em Teste e Qualidade de Software
+Centro Universitário Fael
+Em andamento - Previsão de conclusão 06/2027
 
-- 💻 **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**  
-  *Concluído em 2024*  
-  Foco em lógica de programação, modelagem de sistemas, bancos de dados e fundamentos de testes de software.
+Bacharelado em Engenharia de Software
+(Dupla Certificação em Análise e Desenvolvimento de Sistemas)
+Centro Universitário UNIBTA | 2021 – 2024
 
-- 🧾 **Bacharelado em Administração de Empresas**  
-  *Concluído em 2011*  
-  Formação voltada à gestão de processos, planejamento estratégico, finanças e liderança de equipes.
+Bacharelado em Administração de Empresas
+Faculdade Catuaí | 2009 – 2012
 
 ---
 
@@ -74,11 +77,3 @@ Meu objetivo é continuar evoluindo tecnicamente, aplicando **boas práticas de 
 ---
 
 ## Atividades 
-
-## 📫 Contato
-
-📍 Brasil  
-📧 **net.jaqueline@gmail.com**  
-💼 [LinkedIn](https://linkedin.com/in/jaquelinepatriciasanches)  
-🐙 [GitHub](https://github.com/JaquelineSanches)
-
