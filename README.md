@@ -73,16 +73,16 @@ Atuação prática em:
 
 ---
 
-## 🧠 Competências Técnicas
+🧠 Competências Técnicas
 
-* Lógica de programação aplicada a testes e automação 
-* Testes manuais (funcionais, exploratórios, regressão)
-* Casos de teste e cenários
-* Testes de API (Postman, Swagger)
-* SQL Server (consultas para validação de dados)
-* Jira e Azure DevOps
-* Cypress (em evolução)
-* Metodologias ágeis (Scrum / Kanban)
+• Testes manuais: funcionais, exploratórios e de regressão  
+• Elaboração e execução de casos e cenários de teste  
+• Testes de API: Postman e Swagger (validação de endpoints, status code e payload)  
+• Lógica de programação aplicada a testes e automação  
+• SQL Server: consultas para validação e análise de dados  
+• Gestão de defeitos e tarefas: Jira e Azure DevOps  
+• Automação de testes com Cypress (em evolução)  
+• Metodologias ágeis: Scrum e Kanban  
 
 ---
 
