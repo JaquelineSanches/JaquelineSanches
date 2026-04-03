@@ -4,7 +4,7 @@ Analista de Qualidade de Software (QA)
 📍 Londrina – Paraná – Brasil
 📞 (43) 99609-7092
 📧 net.jaqueline@gmail.com
-🔗 LinkedIn: Jaqueline Sanches
+🔗 LinkedIn: https://www.linkedin.com/in/jaqueline-patricia-sanches-b1752349/
 
 Olá! Me chamo Jaqueline, analista de Qualidade de Software com experiência em testes manuais, validação de regras de negócio e análise de problemas em sistemas web e ERP. 
 Atuação na investigação de falhas, comunicação com usuários e equipe de desenvolvimento e acompanhamento de correções até validação final.
