@@ -24,26 +24,40 @@ Atuação prática em:
 
 ## 💼 Experiência
 
-### 🎯 Estagiária em Engenharia de Software – BR Consórcios
+### 🧪 QA Freelancer
 
-📅 Mai/2023 – Dez/2024
+📅 01/2025 – Atual
 
-* Execução de testes manuais em sistemas internos
-* Elaboração e execução de casos de teste
-* Testes de regressão e validação de correções
-* Registro e acompanhamento de bugs (Trello)
-* Apoio à análise de requisitos e regras de negócio
+* Testes manuais e exploratórios
+* Validação de APIs
+* Uso de Azure DevOps
+* Apoio à qualidade em squads ágeis
 
 ---
 
-### 🧪 QA Freelancer
+### 🎯 Bootcamp – TQC-Academy | QA Coders
 
-📅 Jan/2025 – atual
+📅 Jul/2025
 
-* Testes manuais e exploratórios em aplicações web
-* Validação de APIs e integração entre sistemas
-* Uso de Azure DevOps para gestão de tarefas e bugs
-* Revisão de requisitos e garantia de qualidade
+* Atuação em squad ágil simulando ambiente real
+* Planejamento e execução de testes
+* Testes de API com Postman
+* Gestão de tarefas no Azure DevOps
+* Desenvolvimento de cenários automatizados com Robot Framework
+* Estruturação de suítes de teste e reutilização de keywords
+
+---
+
+### 🎯 BR Consórcios – Estágio em Engenharia de Software
+
+📅 05/2023 – 12/2024
+
+* Testes manuais em sistemas internos
+* Criação e execução de casos de teste
+* Testes de regressão
+* Registro e acompanhamento de bugs
+* Validação de regras de negócio
+
 
 ---
 
