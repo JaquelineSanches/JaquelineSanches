@@ -86,11 +86,19 @@ Atuação prática em:
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
 
-🎓 Pós-graduação em Teste e Qualidade de Software – em andamento
-🎓 Engenharia de Software – UNIBTA (2021–2024)
-🎓 Administração – Faculdade Catuaí
+🎓 Pós-graduação em Teste e Qualidade de Software
+Centro Universitário Fael
+Em andamento - Previsão de conclusão 06/2027
+
+🎓 Bacharelado em Engenharia de Software
+(Dupla Certificação em Análise e Desenvolvimento de Sistemas)
+Centro Universitário UNIBTA | 2021 – 2024
+
+🎓 Bacharelado em Administração de Empresas
+Faculdade Catuaí | 2009 – 2012
+
 
 ---
 
