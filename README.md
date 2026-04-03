@@ -75,6 +75,7 @@ Atuação prática em:
 
 ## 🧠 Competências Técnicas
 
+* Lógica de programação aplicada a testes e automação 
 * Testes manuais (funcionais, exploratórios, regressão)
 * Casos de teste e cenários
 * Testes de API (Postman, Swagger)
