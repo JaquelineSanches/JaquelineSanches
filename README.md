@@ -1,24 +1,20 @@
 # 👩‍💻 Jaqueline Patrícia Sanches
 
-📍 Londrina – PR | 📞 (43) 99609-7092
+📍 Cambé – PR 
 📧 [net.jaqueline@gmail.com](mailto:net.jaqueline@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/jaqueline-patricia-sanches-b1752349/)
+🔗 [LinkedIn](https://www.linkedin.com/in/jaqueline-patricia-sanches/)
 
 ---
 
 ## 💡 Sobre mim
 
-Analista de Qualidade de Software (QA) com experiência em testes manuais, validação de regras de negócio e investigação de falhas em sistemas web e ERP.
+Sou Analista de Qualidade de Software (QA), formada em Engenharia de Software e Análise e Desenvolvimento de Sistemas, certificada CTFL 4.0 e atualmente cursando pós-graduação em Teste e Qualidade de Software.
 
-Atuação prática em:
+Tenho experiência com testes funcionais, exploratórios, regressivos e de integração, elaboração de cenários de teste, análise de requisitos e critérios de aceite, registro e acompanhamento de bugs e validação de correções.
 
-* Testes funcionais, exploratórios e de regressão
-* Testes de API (Postman / Swagger)
-* Consultas em SQL Server para validação de dados
-* Registro e acompanhamento de bugs com evidências
-* Colaboração com desenvolvedores e áreas de negócio
+Também possuo conhecimentos em APIs, SQL Server, Azure DevOps, Postman, Swagger, Jira e metodologias ágeis. Na automação de testes, venho me desenvolvendo com Cypress, Robot Framework e Playwright, área na qual tenho direcionado meus estudos e pretendo consolidar minha atuação profissional.
 
-🚀 Atualmente em evolução para automação de testes com Cypress e aprofundamento em qualidade de software.
+Gosto especialmente de investigar problemas, entender como os sistemas se comportam e contribuir para que as entregas cheguem ao usuário com mais qualidade. Sou apaixonada por tecnologia e pelo aprendizado contínuo que essa área proporciona.
 
 ---
 
