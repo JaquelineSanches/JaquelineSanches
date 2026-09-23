@@ -1,9 +1,8 @@
 # 👩‍💻 Jaqueline Patrícia Sanches
 
-📍 Cambé – PR 
-📧 [net.jaqueline@gmail.com](mailto:net.jaqueline@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/jaqueline-patricia-sanches/)
+### Quality Assurance (QA) | CTFL® 4.0 | Testes Manuais e Automação
 
+📍 Cambé - PR | ✉️ [E-mail](mailto:net.jaqueline@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jaqueline-patricia-sanches)
 ---
 
 ## 💡 Sobre mim
