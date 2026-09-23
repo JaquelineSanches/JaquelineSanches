@@ -7,13 +7,13 @@
 
 ## 💡 Sobre mim
 
-Sou Analista de Qualidade de Software (QA), formada em Engenharia de Software e Análise e Desenvolvimento de Sistemas, certificada CTFL 4.0 e atualmente cursando pós-graduação em Teste e Qualidade de Software.
+Atuo na área de Qualidade de Software (QA), sou certificada CTFL® 4.0, formada em Engenharia de Software e Análise e Desenvolvimento de Sistemas, e atualmente curso pós-graduação em Qualidade e Testes de Software.
 
-Tenho experiência com testes funcionais, exploratórios, regressivos e de integração, elaboração de cenários de teste, análise de requisitos e critérios de aceite, registro e acompanhamento de bugs e validação de correções.
+Tenho experiência com testes funcionais, exploratórios e regressivos, validação de APIs, análise de critérios de aceite, registro e acompanhamento de bugs e apoio à homologação de sistemas.
 
-Também possuo conhecimentos em APIs, SQL Server, Azure DevOps, Postman, Swagger, Jira e metodologias ágeis. Na automação de testes, venho me desenvolvendo com Cypress, Robot Framework e Playwright, área na qual tenho direcionado meus estudos e pretendo consolidar minha atuação profissional.
+Atualmente, estou aprofundando meus conhecimentos em automação de testes com Cypress, Robot Framework e Playwright, além de práticas de qualidade aplicadas a APIs e banco de dados.
 
-Gosto especialmente de investigar problemas, entender como os sistemas se comportam e contribuir para que as entregas cheguem ao usuário com mais qualidade. Sou apaixonada por tecnologia e pelo aprendizado contínuo que essa área proporciona.
+Neste GitHub compartilho projetos e estudos que demonstram, na prática, minha evolução em Qualidade de Software, desde o planejamento e execução de testes até a automação.
 
 ---
 
