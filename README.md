@@ -17,44 +17,44 @@ Neste GitHub compartilho projetos e estudos que demonstram, na prática, minha e
 
 ---
 
-## 💼 Experiência
+## 🎓 Formação Acadêmica
 
-### 🧪 QA Freelancer
-📅 01/2025 – 12/2025
+🎓 **Pós-graduação em Qualidade e Testes de Software**  
+Centro Universitário Fael  
+Em andamento · Previsão de conclusão 09/2027
 
-- Testes manuais funcionais, exploratórios e regressivos
-- Elaboração de cenários e casos de teste
-- Registro de evidências de teste
-- Identificação, registro e acompanhamento de bugs
-- Validação de APIs
-- Participação em cerimônias ágeis e alinhamentos com a equipe
-- Apoio à homologação e validação de critérios de aceite
+🎓 **Bacharelado em Engenharia de Software**  
+(Dupla Certificação em Análise e Desenvolvimento de Sistemas)  
+Centro Universitário UNIBTA | 2021 – 2024
 
----
-
-### 🎯 Bootcamp – TQC-Academy | QA Coders
-
-📅 Jul/2025
-
-* Atuação em squad ágil simulando ambiente real
-* Planejamento e execução de testes
-* Testes de API com Postman
-* Gestão de tarefas no Azure DevOps
-* Desenvolvimento de cenários automatizados com Robot Framework
-* Estruturação de suítes de teste e reutilização de keywords
+🎓 **Bacharelado em Administração de Empresas**  
+Faculdade Catuaí | 2009 – 2012
 
 ---
 
-### 🎯 BR Consórcios – Estágio em Engenharia de Software
+## 📘 Certificação
 
-📅 05/2023 – 12/2024
+ISTQB Certified Tester Foundation Level (CTFL) – em preparação
 
-* Testes manuais em sistemas internos
-* Criação e execução de casos de teste
-* Testes de regressão
-* Registro e acompanhamento de bugs
-* Validação de regras de negócio
+---
 
+## 🛠️ Competências Técnicas
+
+**Testes:** Funcionais • Exploratórios • Regressão • Smoke • Integração • E2E • Reteste
+
+**Automação:** Cypress • Robot Framework • Playwright
+
+**APIs:** Postman • Swagger
+
+**Banco de Dados:** SQL Server • SQL
+
+**Gestão e documentação:** Azure DevOps • Jira • Confluence
+
+**Versionamento:** Git • GitHub
+
+**Metodologias Ágeis:** Scrum • Kanban
+
+**Práticas de QA:** Casos e cenários de teste • Evidências • Gestão de bugs • Critérios de aceite • BDD/Gherkin
 
 ---
 
@@ -70,40 +70,7 @@ Neste GitHub compartilho projetos e estudos que demonstram, na prática, minha e
 
 ---
 
-🧠 Competências Técnicas
 
-• Testes manuais: funcionais, exploratórios e de regressão  
-• Elaboração e execução de casos e cenários de teste  
-• Testes de API: Postman e Swagger (validação de endpoints, status code e payload)  
-• Lógica de programação aplicada a testes e automação  
-• SQL Server: consultas para validação e análise de dados  
-• Gestão de defeitos e tarefas: Jira e Azure DevOps  
-• Automação de testes com Cypress (em evolução)  
-• Metodologias ágeis: Scrum e Kanban  
-
----
-
-## 🎓 Formação Acadêmica
-
-🎓 Pós-graduação em Teste e Qualidade de Software
-Centro Universitário Fael
-Em andamento - Previsão de conclusão 06/2027
-
-🎓 Bacharelado em Engenharia de Software
-(Dupla Certificação em Análise e Desenvolvimento de Sistemas)
-Centro Universitário UNIBTA | 2021 – 2024
-
-🎓 Bacharelado em Administração de Empresas
-Faculdade Catuaí | 2009 – 2012
-
-
----
-
-## 📘 Certificação
-
-ISTQB Certified Tester Foundation Level (CTFL) – em preparação
-
----
 
 ## 🎯 Objetivo
 
