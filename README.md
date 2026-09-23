@@ -11,7 +11,7 @@ Atuo na área de Qualidade de Software (QA), sou certificada CTFL® 4.0, formada
 
 Tenho experiência com testes funcionais, exploratórios e regressivos, validação de APIs, análise de critérios de aceite, registro e acompanhamento de bugs e apoio à homologação de sistemas.
 
-Atualmente, estou aprofundando meus conhecimentos em automação de testes com Cypress, Robot Framework e Playwright, além de práticas de qualidade aplicadas a APIs e banco de dados.
+Atualmente, estou aprofundando meus conhecimentos em automação de testes com Cypress, Robot Framework e Playwright. Também iniciei os estudos do syllabus CT-GenAI, com interesse em qualidade e testes de sistemas baseados em Inteligência Artificial Generativa.
 
 Neste GitHub compartilho projetos e estudos que demonstram, na prática, minha evolução em Qualidade de Software, desde o planejamento e execução de testes até a automação.
 
@@ -20,13 +20,15 @@ Neste GitHub compartilho projetos e estudos que demonstram, na prática, minha e
 ## 💼 Experiência
 
 ### 🧪 QA Freelancer
+📅 01/2025 – 12/2025
 
-📅 01/2025 – Atual
-
-* Testes manuais e exploratórios
-* Validação de APIs
-* Uso de Azure DevOps
-* Apoio à qualidade em squads ágeis
+- Testes manuais funcionais, exploratórios e regressivos
+- Elaboração de cenários e casos de teste
+- Registro de evidências de teste
+- Identificação, registro e acompanhamento de bugs
+- Validação de APIs
+- Participação em cerimônias ágeis e alinhamentos com a equipe
+- Apoio à homologação e validação de critérios de aceite
 
 ---
 
